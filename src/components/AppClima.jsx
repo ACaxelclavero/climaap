@@ -1,6 +1,6 @@
 import Formulario from "./Formulario"
 import Resultado from "./Resultado"
-import Loading from "./Loading"
+import Loading from "./Loading.jsx"
 import useClima from "../hooks/useClima"
 
 const AppClima = () => {
